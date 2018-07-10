@@ -7,6 +7,7 @@ This repository contains:
 4. CodeBook.md describing the contents of the tidy data set
 
 Creating The Data Set
+
 This is a step by step procedure on getting and cleaning given data that was done by run_analysis.R.
 
 1. Download the given file and unzip it to a folder called 'data'
