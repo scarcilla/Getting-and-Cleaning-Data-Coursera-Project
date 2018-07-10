@@ -1,4 +1,4 @@
-Getting and Cleaning Data Coursera Project
+**Getting and Cleaning Data Coursera Project**
 
 This repository contains:
 1. A README.md file describing the process in getting and cleaning given data
@@ -6,7 +6,7 @@ This repository contains:
 3. A text file tidydata.txt containing the tidy data set
 4. CodeBook.md describing the contents of the tidy data set
 
-Creating The Data Set
+*Creating The Data Set*
 
 This is a step by step procedure on getting and cleaning given data that was done by run_analysis.R.
 
